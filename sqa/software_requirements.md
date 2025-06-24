@@ -2,7 +2,7 @@
 ## FashionHub - E-commerce Application
 
 **Document Version:** 1.2  
-**Date:** June 24, 2025  
+**Date:** August 24, 2024 
 **Prepared by:** QA Team  
 **Project:** FashionHub E-commerce Platform  
 **Technology Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
@@ -331,18 +331,11 @@ Each requirement shall be considered complete when:
 
 ---
 
-**Document Approval:**
-
-| Role | Name | Signature | Date |
-|------|------|-----------|------|
-| Product Owner | [Name] | [Signature] | June 24, 2025 |
-| QA Lead | [Name] | [Signature] | June 24, 2025 |
-| Technical Lead | [Name] | [Signature] | June 24, 2025 |
 
 **Document History:**
 
 | Version | Date | Changes | Author |
 |---------|------|---------|--------|
-| 1.0 | June 15, 2025 | Initial draft | QA Team |
-| 1.1 | June 20, 2025 | Added security requirements | Security Team |
-| 1.2 | June 24, 2025 | Final review and approval | QA Lead |
+| 1.0 | August 15, 2024 | Initial draft | QA Team |
+| 1.1 | August 20, 2024 | Added security requirements | Security Team |
+| 1.2 | August 24, 2024 | Final review and approval | QA Lead |
