@@ -1,7 +1,7 @@
 # Bug Report - FashionHub E-commerce Application
 
-**Report Date:** June 24, 2025  
-**Reported by:** Ahsan Qadir - Senior QA Engineer  
+**Report Date:** September 2, 2024 
+**Reported by:** Muhammad Anas
 **Test Environment:** Staging (https://staging.fashionhub.com)  
 **Build Version:** v2.3.1-staging  
 **Browser:** Chrome 125.0.6422.141, Firefox 126.0, Safari 17.4  
@@ -26,8 +26,8 @@
 **Severity:** Critical  
 **Status:** Open  
 **Assigned to:** Backend Team Lead  
-**Reporter:** Ahsan Qadir  
-**Date Found:** June 24, 2025  
+**Reporter:** Muhammad Anas   
+**Date Found:** September 2, 2024 
 
 **Environment:** Staging  
 **Browser:** All browsers  
@@ -263,8 +263,8 @@ const calculateTotal = () => {
 **Severity:** High  
 **Status:** Open  
 **Assigned to:** Backend Team  
-**Reporter:** Ahsan Qadir  
-**Date Found:** June 24, 2025  
+**Reporter:** Muhammad Anas 
+**Date Found:** September 2, 2024 
 
 #### Summary
 Users cannot view their order history despite having completed orders, affecting customer service and user experience.
