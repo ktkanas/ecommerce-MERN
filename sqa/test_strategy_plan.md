@@ -2,10 +2,9 @@
 ## FashionHub E-commerce Application
 
 **Document Version:** 2.1  
-**Date:** June 24, 2025  
-**Prepared by:** Ahsan Qadir - Senior QA Engineer  
-**Project:** FashionHub E-commerce Platform  
-**Test Manager:** Sarah Johnson  
+**Date:** August 24, 2024   
+**Prepared by:** Muhammad Anas 
+**Project:** FashionHub E-commerce Platform   
 **Environment:** Staging & Production
 
 ---
@@ -124,28 +123,20 @@ Our testing strategy follows a **Risk-Based Testing** approach, prioritizing cri
 
 ### 2.4 Test Schedule
 
-#### Sprint 1 (June 24 - July 7, 2025)
+#### Sprint 1 (August 24 - August 27, 2025)
 - **Week 1:** Unit testing setup, API testing
 - **Week 2:** Integration testing, initial E2E tests
 
-#### Sprint 2 (July 8 - July 21, 2025)
+#### Sprint 2 (August 28 - August 31, 2025)
 - **Week 1:** System testing, performance testing
 - **Week 2:** Security testing, compatibility testing
 
-#### Sprint 3 (July 22 - August 4, 2025)
+#### Sprint 3 (Septenber 1 -September 1, 2024)
 - **Week 1:** Regression testing, bug fixes
 - **Week 2:** User acceptance testing, final validation
 
 ### 2.5 Resource Allocation
 
-#### Team Structure
-| Role | Name | Responsibilities | Allocation |
-|------|------|------------------|------------|
-| QA Lead | Sarah Johnson | Test strategy, team coordination | 100% |
-| Senior QA Engineer | Ahsan Qadir | Test automation, execution | 100% |
-| QA Engineer | Mike Chen | Manual testing, bug verification | 100% |
-| Performance Tester | Lisa Wang | Load testing, performance analysis | 50% |
-| Security Tester | John Smith | Security testing, vulnerability assessment | 30% |
 
 #### Tool Requirements
 - **Test Management:** Jira, TestRail
@@ -242,12 +233,6 @@ Our testing strategy follows a **Risk-Based Testing** approach, prioritizing cri
 - **Sprint Reviews:** End of each sprint with stakeholders
 - **Critical Issues:** Immediate notification via Slack/email
 
-#### Escalation Matrix
-1. **Level 1:** QA Engineer → QA Lead
-2. **Level 2:** QA Lead → Project Manager
-3. **Level 3:** Project Manager → Engineering Manager
-4. **Level 4:** Engineering Manager → CTO
-
 ### 2.11 Training and Skills Development
 
 #### Required Skills
@@ -283,17 +268,11 @@ Any changes to this test strategy and plan must be:
 - Approved by Engineering Manager
 - Communicated to all stakeholders
 
-### 3.3 Document Revision History
 
-| Version | Date | Changes | Author |
-|---------|------|---------|--------|
-| 1.0 | June 10, 2025 | Initial draft | Ahsan Qadir |
-| 1.5 | June 18, 2025 | Added risk assessment | Sarah Johnson |
-| 2.0 | June 22, 2025 | Stakeholder review feedback | Ahsan Qadir |
-| 2.1 | June 24, 2025 | Final approval version | Sarah Johnson |
+
 
 ---
 
 **Document Status:** APPROVED  
-**Next Review Date:** August 24, 2025  
-**Contact:** ahsan.qadir@fashionhub.com
+**Next Review Date:** August 24, 2024  
+**Contact:** anasktk.official@gmail.com
